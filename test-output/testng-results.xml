@@ -2,15 +2,23 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="3092" started-at="2017-03-21T09:36:35Z" finished-at="2017-03-21T09:36:38Z">
+  <suite name="Suite" duration-ms="4331" started-at="2017-03-22T19:05:27Z" finished-at="2017-03-22T19:05:32Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="3092" started-at="2017-03-21T09:36:35Z" finished-at="2017-03-21T09:36:38Z">
+    <test name="Test" duration-ms="4331" started-at="2017-03-22T19:05:27Z" finished-at="2017-03-22T19:05:32Z">
       <class name="Selenium_Project.Google_search.AppTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:Selenium_Project.Google_search.AppTest@396a51ab]" name="test1" duration-ms="3076" started-at="2017-03-21T15:06:35Z" finished-at="2017-03-21T15:06:38Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Selenium_Project.Google_search.AppTest@1753acfe]" name="test1" is-config="true" duration-ms="1035" started-at="2017-03-23T00:35:27Z" finished-at="2017-03-23T00:35:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:Selenium_Project.Google_search.AppTest@1753acfe]" name="test2" duration-ms="3208" started-at="2017-03-23T00:35:28Z" finished-at="2017-03-23T00:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Selenium_Project.Google_search.AppTest@1753acfe]" name="test4" is-config="true" duration-ms="72" started-at="2017-03-23T00:35:32Z" finished-at="2017-03-23T00:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
       </class> <!-- Selenium_Project.Google_search.AppTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
